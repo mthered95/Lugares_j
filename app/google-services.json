@@ -7,6 +7,35 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:469385626997:android:7dd8ae6b5a9c7937b5ff3c",
+        "android_client_info": {
+          "package_name": "com.example.lugares_j"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469385626997-b6qdvbas9vmcpudp4jleq3pkom1dih3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6lr-I8bgD3CtNkd48dKut06gsG33FMj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469385626997-b6qdvbas9vmcpudp4jleq3pkom1dih3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:469385626997:android:4333048e9473a213b5ff3c",
         "android_client_info": {
           "package_name": "com.lugares"
