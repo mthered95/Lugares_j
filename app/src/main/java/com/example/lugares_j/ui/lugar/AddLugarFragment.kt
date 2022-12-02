@@ -27,7 +27,7 @@ class AddLugarFragment : Fragment() {
 
     ): View {
         lugarViewModel = ViewModelProvider(this).get(LugarViewModel::class.java)
- ///dfsfs
+ ///dfsfshhh
         _binding = FragmentAddLugarBinding.inflate(inflater, container, false)
 
         binding.btAdd.setOnClickListener { addLugar() }
